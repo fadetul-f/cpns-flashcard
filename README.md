@@ -1,2 +1,5 @@
 # cpns-flashcard
-This application was created to help you study for CPNS
+This is how to run the project:
+
+
+You can try here: 
